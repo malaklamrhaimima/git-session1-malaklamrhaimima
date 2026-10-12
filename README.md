@@ -1,6 +1,6 @@
 # Git Session 1
 
-**Name:** Your Name Here
+**Name:** malak lamrhaimima
 **GitHub:** malaklamrhaimima
 
 A small web project to practice Git and GitHub.
